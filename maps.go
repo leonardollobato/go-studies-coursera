@@ -12,7 +12,7 @@ type Info struct {
 	Address string `json:"address"`
 }
 
-func main() {
+func maps_main() {
 
 	info := make(map[string]string)
 
