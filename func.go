@@ -11,7 +11,7 @@ import (
 
 const basemessage = "Please inform %s (float64): "
 
-func main() {
+func func_main() {
 	//s =½ a t2 + vot + so
 
 	messages := [3]string{"acceleration", "initial velocity", "initial displacement"}
