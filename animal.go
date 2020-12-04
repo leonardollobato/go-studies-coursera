@@ -1,9 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
-
+/*
 type Animal interface {
 	Speak()
 	Move()
@@ -73,4 +70,4 @@ func main() {
 
 func askForInput() {
 	fmt.Print(">")
-}
+}*/
